@@ -1,4 +1,4 @@
-# -Tree-Cover-Percent-Estimation-using-Regression-Technique![White areas show tree cover](https://github.com/user-attachments/assets/c2d2f293-90e4-4cf4-917f-66eac1553d1a)
+# Tree-Cover-Percent-Estimation-using-Regression-Technique![White areas show tree cover](https://github.com/user-attachments/assets/c2d2f293-90e4-4cf4-917f-66eac1553d1a)
 ![2  ROI](https://github.com/user-attachments/assets/6bd1ed69-1e6c-4f8f-94d2-82ec07f101f3)
 ![3 NDVI ROI](https://github.com/user-attachments/assets/8c9b323a-9d98-4b1a-abb2-4fa9a58c87fb)
 ![4 Landsat tree cover](https://github.com/user-attachments/assets/c98e17ab-c4e6-47eb-b83b-05f7516c8ca2)
